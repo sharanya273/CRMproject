@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/sharanyakadarla/Desktop/CRM/CRMproject">
+        <classes>
+            <class name="testcases.IndexPageTest">
+                <methods>
+                    <exclude name="verifyLogoTest"/>
+                    <exclude name="verifyTitleTest"/>
+                    <exclude name="signInTest"/>
+
+                </methods>
+            </class>
+
+            <class name="testcases.SearchResultPageTest">
+                <methods>
+                    <exclude name="productAvailabilityTest"/>
+                </methods>
+            </class>
+            <class name="testcases.LoginPageTest">
+                <methods>
+                    <include name="validateLoginTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

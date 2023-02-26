@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="/Users/sharanyakadarla/Desktop/CRM/CRMproject(failed)">
+    <classes>
+      <class name="testcases.IndexPageTest">
+        <methods>
+          <include name="loadConfig"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="signInTest"/>
+        </methods>
+      </class> <!-- testcases.IndexPageTest -->
+    </classes>
+  </test> <!-- /Users/sharanyakadarla/Desktop/CRM/CRMproject(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

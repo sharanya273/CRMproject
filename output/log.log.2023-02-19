@@ -1,0 +1,190 @@
+[2023-02-19] [12:15:13] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [12:15:34] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [12:15:34] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (4423f69f16c73cac9d62c2cd4d52325d)] -> id: ap_email]
+[2023-02-19] [12:15:35] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [12:15:35] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [12:15:44] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [12:15:44] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [12:15:44] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [12:17:25] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [12:17:43] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [12:17:43] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (20d5b73b9b556d73417b8ed14deab60d)] -> id: ap_email]
+[2023-02-19] [12:17:44] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [12:17:44] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [12:17:47] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [12:17:48] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [12:17:48] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [12:18:16] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [12:18:16] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================
+[2023-02-19] [12:46:24] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [12:46:44] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [12:46:44] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (f2f590fc7069f5404bf6ae6752a1de8d)] -> id: ap_email]
+[2023-02-19] [12:46:45] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [12:46:45] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [12:46:55] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [12:46:55] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [12:46:55] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [12:47:05] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [12:47:05] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================
+[2023-02-19] [12:49:15] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [12:49:39] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [12:49:39] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (92c07cc40e5b4d4c60f13ff1f8f61e42)] -> id: ap_email]
+[2023-02-19] [12:49:40] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [12:49:40] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [12:49:44] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [12:49:45] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [12:49:45] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [12:49:49] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [12:49:49] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================
+[2023-02-19] [12:53:13] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [12:53:31] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [12:53:31] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (c4b95c5de0243926c0e885d395883b55)] -> id: ap_email]
+[2023-02-19] [12:53:32] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [12:53:32] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [12:53:41] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [12:53:41] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [12:53:41] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [12:53:51] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [12:53:51] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================
+[2023-02-19] [12:58:03] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [12:58:28] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [12:58:28] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (5fca04e5d3a597786ed81ae87a7ff8e7)] -> id: ap_email]
+[2023-02-19] [12:58:29] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [12:58:29] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [12:58:37] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [12:58:38] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [12:58:38] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [12:58:47] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [12:58:47] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================
+[2023-02-19] [13:09:40] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-19] [13:09:40] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:09:42] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-19] [13:09:54] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-19] [13:09:54] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:09:55] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-19] [13:09:58] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-19] [13:10:10] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-19] [13:11:21] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-19] [13:11:21] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:11:26] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-19] [13:11:40] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-19] [13:13:02] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-19] [13:13:10] [ INFO] [Log.java:info:29] - Entered text :flower
+[2023-02-19] [13:13:22] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-19] [13:13:32] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [13:13:52] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:13:52] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (7578409e2a201fcc5804bea9d20113f8)] -> id: ap_email]
+[2023-02-19] [13:13:53] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [13:13:53] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [13:14:02] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [13:14:02] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [13:14:02] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [13:14:13] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [13:14:13] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================
+[2023-02-19] [13:14:56] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-19] [13:14:56] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:15:04] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-19] [13:15:15] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-19] [13:16:07] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-19] [13:16:12] [ INFO] [Log.java:info:29] - Entered text :flower
+[2023-02-19] [13:16:22] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-19] [13:16:31] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [13:16:51] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:16:51] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (11bd31357050b81f5cb81103d2d8fb03)] -> id: ap_email]
+[2023-02-19] [13:16:52] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [13:16:52] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [13:17:01] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [13:17:01] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [13:17:01] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [13:17:11] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [13:17:11] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================
+[2023-02-19] [13:18:32] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-19] [13:18:32] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:18:33] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-19] [13:18:42] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-19] [13:19:46] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-19] [13:19:52] [ INFO] [Log.java:info:29] - Entered text :flower
+[2023-02-19] [13:20:02] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-19] [13:20:10] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [13:20:10] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:41:56] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [13:42:18] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:42:18] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (03dbeedca0d249b9b5512ff496449b16)] -> id: ap_email]
+[2023-02-19] [13:42:21] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [13:42:21] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [13:42:29] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [13:42:29] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [13:42:29] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [13:42:38] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [13:42:38] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================
+[2023-02-19] [13:43:29] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-19] [13:43:29] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:43:32] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-19] [13:43:43] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [13:44:01] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:44:01] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (4beb72038c7e129649297ad7720b73f5)] -> id: ap_email]
+[2023-02-19] [13:44:03] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [13:44:03] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [13:44:11] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [13:44:11] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [13:44:11] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [13:44:21] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [13:44:21] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================
+[2023-02-19] [13:44:38] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-19] [13:44:38] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:44:43] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-19] [13:49:08] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-19] [13:49:08] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:49:09] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-19] [13:49:18] [ INFO] [Log.java:startTestCase:18] - =====================================signInTest TEST START=========================================
+[2023-02-19] [13:51:44] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-19] [13:51:44] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:52:02] [ INFO] [Log.java:startTestCase:18] - =====================================signInTest TEST START=========================================
+[2023-02-19] [13:54:51] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-19] [13:54:52] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:54:54] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-19] [13:55:03] [ INFO] [Log.java:startTestCase:18] - =====================================signInTest TEST START=========================================
+[2023-02-19] [13:57:35] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [13:57:52] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [13:57:52] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (c8f2ae76e1c525f51490008618391ee7)] -> id: ap_email]
+[2023-02-19] [13:57:53] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [13:57:53] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [13:57:57] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [13:57:57] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [13:57:57] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [13:58:04] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [13:58:04] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================
+[2023-02-19] [14:36:26] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-19] [14:36:30] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-19] [14:36:30] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (7407e9e99048e9aff862df793129e3c2)] -> id: ap_email]
+[2023-02-19] [14:36:33] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-19] [14:36:33] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-19] [14:36:43] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-19] [14:36:44] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-19] [14:36:44] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-19] [14:36:53] [ INFO] [Log.java:info:29] - Your account page title is matched
+[2023-02-19] [14:36:53] [ INFO] [Log.java:endTestCase:22] - =====================================validateLoginTest TEST END=========================================

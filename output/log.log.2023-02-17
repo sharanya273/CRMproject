@@ -1,0 +1,226 @@
+[2023-02-17] [16:34:53] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [16:34:53] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [16:34:56] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [16:35:24] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [16:35:46] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [17:05:37] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [17:05:37] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [17:05:39] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [17:05:59] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [17:06:17] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [17:10:19] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [17:10:19] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [17:10:19] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [17:10:19] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [17:10:40] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [17:10:58] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [17:12:41] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [17:12:41] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [17:12:42] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [17:12:42] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [17:13:01] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [17:13:20] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [17:14:47] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [17:14:47] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [17:14:48] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [17:14:48] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [17:14:59] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [17:15:07] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [17:15:25] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [17:17:37] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [17:17:37] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [17:17:42] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [17:17:42] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [17:17:56] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [17:18:05] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [17:18:22] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [19:28:40] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [19:28:40] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [19:28:46] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [19:28:46] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [19:28:59] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [19:29:08] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [19:29:25] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [19:30:48] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [19:30:48] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [19:30:49] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [19:30:49] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [19:30:58] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [19:31:10] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [19:31:25] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [19:33:31] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [19:33:31] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [19:33:34] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [19:33:34] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [19:33:47] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [19:34:08] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [19:34:23] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [19:34:54] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [19:34:54] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [19:34:58] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [19:34:58] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [19:35:10] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [19:35:29] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [19:35:48] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [19:37:19] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [19:37:19] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [19:37:22] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [19:37:22] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [19:37:36] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [19:38:14] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [19:38:29] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [19:49:45] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [19:49:45] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [19:49:49] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [19:49:49] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [19:50:03] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [19:50:43] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [19:51:01] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [19:54:37] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [19:54:37] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [19:54:41] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [19:54:41] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [19:54:55] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [19:55:33] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [19:55:50] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [20:02:14] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [20:02:14] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [20:02:19] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [20:02:19] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [20:02:33] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [20:03:10] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [20:03:26] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [20:16:14] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [20:16:14] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [20:16:19] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [20:16:19] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [20:16:31] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [20:17:13] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [20:17:28] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [20:17:49] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [20:17:49] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [20:18:13] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [20:18:53] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [20:19:11] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [20:22:47] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [20:22:47] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [20:22:52] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [20:22:52] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [20:23:05] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [20:23:42] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [20:23:57] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [20:27:54] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [20:27:54] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [20:28:00] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [20:28:00] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [20:28:10] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [20:28:48] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [20:29:06] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [20:44:28] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [20:44:28] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [20:44:30] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [20:44:30] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [20:44:40] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [20:45:16] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [20:45:36] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [20:46:00] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [20:46:00] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [20:46:00] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [20:46:00] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [20:46:10] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [20:46:48] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [20:47:05] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [20:48:32] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [20:48:32] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [20:48:37] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [20:48:37] [ERROR] [Log.java:error:41] - ertertert
+[2023-02-17] [20:48:50] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [20:49:30] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [20:49:47] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [23:19:06] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [23:19:06] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:19:11] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [23:19:23] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [23:20:00] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [23:20:07] [ INFO] [Log.java:info:29] - Entered text :flower
+[2023-02-17] [23:20:17] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [23:20:28] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-17] [23:20:28] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:20:39] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: Proxy element for: DefaultElementLocator 'By.id: //input[@id='ap_email']'
+[2023-02-17] [23:24:06] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [23:24:06] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:24:10] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [23:24:24] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [23:25:03] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [23:25:09] [ INFO] [Log.java:info:29] - Entered text :flower
+[2023-02-17] [23:25:18] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [23:25:30] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-17] [23:25:49] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:25:59] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: Proxy element for: DefaultElementLocator 'By.id: //input[@id='ap_email']'
+[2023-02-17] [23:26:57] [ INFO] [Log.java:startTestCase:18] - =====================================verifyLogo TEST START=========================================
+[2023-02-17] [23:26:57] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:27:00] [ INFO] [Log.java:endTestCase:22] - =====================================verifyLogo TEST END=========================================
+[2023-02-17] [23:27:14] [ERROR] [Log.java:error:41] - test fials display this
+[2023-02-17] [23:27:53] [ INFO] [Log.java:startTestCase:18] - =====================================productAvailabilityTest TEST START=========================================
+[2023-02-17] [23:27:57] [ INFO] [Log.java:info:29] - Entered text :flower
+[2023-02-17] [23:28:13] [ INFO] [Log.java:endTestCase:22] - =====================================productAvailabilityTest TEST END=========================================
+[2023-02-17] [23:28:26] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-17] [23:28:44] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:28:44] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (d16aa73b96f85ec5a295cb6e2cb2cb82)] -> id: ap_email]
+[2023-02-17] [23:28:45] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-17] [23:28:45] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-17] [23:28:48] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.[[ChromeDriver: chrome on MAC (d16aa73b96f85ec5a295cb6e2cb2cb82)] -> id: ap_password]
+[2023-02-17] [23:28:48] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-17] [23:33:17] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-17] [23:33:46] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:33:46] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (0eeb9325d00abbdd0947e065b36b8709)] -> id: ap_email]
+[2023-02-17] [23:33:47] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-17] [23:33:47] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-17] [23:33:50] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.[[ChromeDriver: chrome on MAC (0eeb9325d00abbdd0947e065b36b8709)] -> id: ap_password]
+[2023-02-17] [23:33:50] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-17] [23:41:10] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-17] [23:41:27] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:41:27] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (89682d9acd4ce754f80748dbc258c64a)] -> id: ap_email]
+[2023-02-17] [23:41:28] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-17] [23:41:28] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-17] [23:41:32] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.[[ChromeDriver: chrome on MAC (89682d9acd4ce754f80748dbc258c64a)] -> id: ap_password]
+[2023-02-17] [23:41:32] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-17] [23:44:18] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-17] [23:44:34] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:44:34] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (6c82c7be0c756f68cae83e7d7c105721)] -> id: ap_email]
+[2023-02-17] [23:44:36] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-17] [23:44:36] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-17] [23:47:27] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-17] [23:47:45] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:47:45] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (15cec7924046b7dbb610377fae744761)] -> id: ap_email]
+[2023-02-17] [23:47:47] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-17] [23:47:47] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-17] [23:47:49] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-17] [23:50:11] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-17] [23:50:28] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:50:28] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (e155124f3def4c19886d7ca4971e4b42)] -> id: ap_email]
+[2023-02-17] [23:50:29] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-17] [23:50:29] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-17] [23:50:32] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-17] [23:50:33] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-17] [23:50:33] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+
+[2023-02-17] [23:57:27] [ INFO] [Log.java:startTestCase:18] - =====================================emailInputTest TEST START=========================================
+[2023-02-17] [23:57:44] [ INFO] [Log.java:info:29] - validate the log
+[2023-02-17] [23:57:44] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering username: [[ChromeDriver: chrome on MAC (7c7373d857c370e577dae2c0fa9017b8)] -> id: ap_email]
+[2023-02-17] [23:57:45] [ INFO] [Log.java:info:29] - Entered text :sharanya.kadarla79@gmail.com
+[2023-02-17] [23:57:45] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the Continue button.
+
+[2023-02-17] [23:57:49] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Entering password.
+[2023-02-17] [23:57:49] [ INFO] [Log.java:info:29] - Entered text :technology$123
+[2023-02-17] [23:57:49] [ INFO] [Log.java:info:29] - SIGNIN_PAGE: Clicking the [SIGN_IN] button.
+

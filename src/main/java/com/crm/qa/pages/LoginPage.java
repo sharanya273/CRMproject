@@ -40,6 +40,7 @@ public class LoginPage extends BaseClass {
         action.explicitWait(getDriver(),email,30);
         action.type(email,"sharanya.kadarla79@gmail.com");
             }
+            //sdjfksdkf
     public void clickContinueButton(){
         Log.info("SIGNIN_PAGE: Clicking the Continue button.\n");
         action.explicitWait(getDriver(),continueBtn,30);
